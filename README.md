@@ -1,3 +1,7 @@
+@@ -1,2 +1,134 @@
+# 2026_MA_CAPSTONE_005D_GRUPO_9
+Repositorio CAPSTONE. Carrera de Ingeniería en Informática. Duoc UC sede Maipú
+
 # FloweView - Flores Para Toda Ocasión
 
 > Sitio Ecommerce - Gestion de Productos Florares
@@ -10,9 +14,9 @@
 ---
 
 Tabla de Contenidos
-- [Equipo de Desarrollo](#-equipo-de-Desarrollo)
-- [Acerca del Proyecto](#-acerca-del-proyecto)
-- [Características Principales](#-características-principales)
+- [Equipo de Desarrollo](-equipo-de-Desarrollo)
+- [Acerca del Proyecto](-acerca-del-proyecto)
+- [Características Principales](-características-principales)
 - [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Instalación y Configuración](#-instalación-y-configuración)
@@ -93,7 +97,7 @@ Pasos para clonar y ejecutar el proyecto localmente en el equipo:
 
 ### 2. Clonar el Repositorio
 ```bash
-git clone [https://github.com/PhilipV4/proyecto-floreria.git](https://github.com/PhilipV4/proyecto-floreria.git)
+git clone https://github.com/PhilipV4/proyecto-floreria.git
 cd proyecto-floreria
 ```
 
