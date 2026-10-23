@@ -14,13 +14,13 @@ Repositorio CAPSTONE. Carrera de Ingeniería en Informática. Duoc UC sede Maip�
 ---
 
 Tabla de Contenidos
-- [Equipo de Desarrollo](#-equipo-de-Desarrollo)
-- [Acerca del Proyecto](#-acerca-del-proyecto)
-- [Características Principales](#-características-principales)
-- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Instalación y Configuración](#-instalación-y-configuración)
-- [ Gestión Ágil y Documentación](#-gestión-ágil-y-documentación*)
+- [Equipo de Desarrollo](#equipo-de-Desarrollo)
+- [Acerca del Proyecto](#acerca-del-proyecto)
+- [Características Principales](#características-principales)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Instalación y Configuración](#instalación-y-configuración)
+- [ Gestión Ágil y Documentación](#gestión-ágil-y-documentación*)
 
 
 ---
