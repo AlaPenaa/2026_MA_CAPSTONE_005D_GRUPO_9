@@ -20,7 +20,7 @@ Tabla de Contenidos
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Instalación y Configuración](#instalación-y-configuración)
-- [ Gestión Ágil y Documentación](#gestión-ágil-y-documentación*)
+- [Gestión Ágil y Documentación](#gestión-ágil-y-documentación*)
 
 
 ---
