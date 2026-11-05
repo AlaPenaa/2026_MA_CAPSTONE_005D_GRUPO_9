@@ -36,7 +36,7 @@ Tabla de Contenidos
 ## Acerca del Proyecto
 **FlowerView-FloresParaTodaOcasion** es una solución web integral diseñada para la modernización, digitalización y automatización operativa de una tienda de diseño floral ubicada en la comuna de Padre Hurtado. El sistema aborda la transición desde un modelo de ventas informal y manual hacia un entorno digital centralizado, optimizando tanto la experiencia de compra del cliente como la gestión interna del negocio.
 
-El proyecto contempla una tienda en línea *responsive*, control de inventario en tiempo real, integración de pasarela de pagos, un módulo de Business Intelligence (BI) para la toma de decisiones estratégicas e innovación con IA generativa para la personalización interactiva de arreglos florales. 
+El proyecto contempla una tienda en línea *responsive*, control de inventario en tiempo real, integración de pasarela de pagos, un módulo de Business Intelligence (BI) para la toma de decisiones estratégicas. 
 
 ---
 
@@ -133,6 +133,6 @@ python manage.py runserver
 - **Sprint Reviews:**
   - [Sprint Review 1 ](https://docs.google.com/document/d/1hahMLXQRjfLF3lhJJK9i0bAD5a0X6MxR/edit?usp=sharing&ouid=115062794258160277342&rtpof=true&sd=true)
 
-  - [Sprint Review 2 ](https://tu-enlace-sprint-2)
+  - [Sprint Review 2 ](https://)
 
-  - [Sprint Review 3 ](https://tu-enlace-sprint-3)
+  - [Sprint Review 3 ](https://)
