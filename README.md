@@ -135,6 +135,6 @@ python manage.py runserver
   - [Sprint Backlog 1](https://docs.google.com/spreadsheets/d/1lzGPQOuFQqMxMnKc8jLyENqirJkr_Ush/edit?usp=sharing&ouid=115062794258160277342&rtpof=true&sd=true)
   - [Sprint Review 1 ](https://docs.google.com/document/d/1hahMLXQRjfLF3lhJJK9i0bAD5a0X6MxR/edit?usp=sharing&ouid=115062794258160277342&rtpof=true&sd=true)
   - [Sprint Backlog 2](https://docs.google.com/spreadsheets/d/1BQpWgk2OIa5Pr0_ebLyX1zOFy9mFUUq4/edit?usp=sharing&ouid=115062794258160277342&rtpof=true&sd=true)
-  - [Sprint Review 2 ](https://)
+  - [Sprint Review 2 ]((https://docs.google.com/document/d/1T-fMQapdZ6WE2NwQdozAeFJE36EoJIQA/edit?usp=sharing&ouid=115062794258160277342&rtpof=true&sd=true))
   - [Sprint Backlog 3](https://)
   - [Sprint Review 3 ](https://)
